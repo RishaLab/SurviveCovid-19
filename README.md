@@ -13,6 +13,15 @@
 1. Infection spreads by contact hence enforcing the notion of social distancing.
 2. Masks and Sanitizers control the spread of Virus.
 
+<p align="center">
+  <img src="home.jpg" width="700" title="screenshot" alt="Image unavailable">
+</p>
+
+<p align="center">
+  <img src="screenshot1.png" width="350" title="screenshot" alt="Image unavailable">
+  <img src="screenshot2.png" width="350" title="screenshot" alt="Image unavailable">
+</p>
+
 ## Uses of SurviveCovid-19:
 SurviveCovid-19 has been developed to educate about, and motivate public to follow safety measures to be taken to control Covid-19 pandemic, as an Android and Web based mobile  game.
 
