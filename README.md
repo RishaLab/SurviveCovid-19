@@ -4,6 +4,7 @@
 </p>
 
 # SurviveCovid-19
+https://survivecovid-19.itch.io/game2020
 
 ## What is SurviveCovid-19?
 1. SurviveCovid19 is an Educational Game to Facilitate Habituation of Social Distancing and Other Health Measures for Covid-19 Pandemic.
