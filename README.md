@@ -1,11 +1,9 @@
-# SurviveCovid-19
-
 <p align="center">
   <img src="iittp.png" width="350" title="IIT Tirupati" alt="Image unavailable">
   <img src="risha.png" width="350" title="RISHA Lab" alt="Image unavailable">
 </p>
 
-# StackEmo
+# SurviveCovid-19
 
 ## What is SurviveCovid-19?
 1. SurviveCovid19 is an an Educational Game to Facilitate Habituation of Social Distancing and Other Health Measures for Covid-19 Pandemic.
@@ -25,7 +23,7 @@ SurviveCovid-19has been developed to educate about, and motivate public to follo
 4. Replace any necassary folders.
 5. Use appropriate build settings to generate the game. 
 
-## Demonstration Video of StackEmo:
+## Demonstration Video of SurviveCovid-19:
 The demonstration video can be found on Youtube using the following link:
 https://youtu.be/j8lCtnx2MHg
 
