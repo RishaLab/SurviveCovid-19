@@ -6,7 +6,7 @@
 # SurviveCovid-19
 
 ## What is SurviveCovid-19?
-1. SurviveCovid19 is an an Educational Game to Facilitate Habituation of Social Distancing and Other Health Measures for Covid-19 Pandemic.
+1. SurviveCovid19 is an Educational Game to Facilitate Habituation of Social Distancing and Other Health Measures for Covid-19 Pandemic.
 2. The code from this repository can be used to build all the Web, Desktop and Android versions of SurviveCovid19.
 
 ## Features of SurviveCovid-19:
