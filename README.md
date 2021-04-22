@@ -39,7 +39,10 @@ Android version: https://survivecovid-19.itch.io/mobilegame2020
 
 ## Steps to Play the game:
 1. Use the link provided for the web version of the game.
+2. To play the android version use the android link to download the apk into your phone.
 
+
+## Development
 <p align="center">
   <img src="development.png" width="700" title="Development" alt="Image unavailable">
 </p>
