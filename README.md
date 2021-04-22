@@ -35,7 +35,7 @@ https://survivecovid-19.itch.io/game2020
 4. Replace any necassary folders.
 5. Use appropriate build settings to generate the game. 
 
-## Steps to build the game:
+## Steps to Play the game:
 1. Use the link provided for the web version of the game.
 
 <p align="center">
